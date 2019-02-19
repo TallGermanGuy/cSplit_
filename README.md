@@ -1,4 +1,4 @@
-[cSplit](https://i.imgur.com/UqHWlLe.png)
+![cSplit](https://i.imgur.com/UqHWlLe.png)
 
 LiveSplit data management and comparison tool
 * Upload .lss files to easily read and manage speedrun splits
